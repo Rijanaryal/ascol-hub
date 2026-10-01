@@ -1,0 +1,36 @@
+[
+  {
+    "text": "new BSc CSIT student first admission onboarding section ID library lab clubs exams",
+    "answer": "Finish admission at Admin Office, confirm BSc CSIT section A/B/C, complete the Ascol Hub onboarding checklist, collect ID and library cards, join your section chat, then open tomorrow's timetable.",
+    "source": "Onboarding",
+    "mapPlaceId": "admin"
+  },
+  {
+    "text": "where BSc CSIT department science block room 204",
+    "answer": "The Computer Science department is on the 2nd floor of the Science Block. Digital Logic is often in Room 204. Use Explore Campus for the gold path from the Main Gate.",
+    "source": "Campus map",
+    "mapPlaceId": "science"
+  },
+  {
+    "text": "library where card",
+    "answer": "Library is east of the Science Block. Cards are issued 10:00–14:00. Bring a student ID photocopy and one photo.",
+    "source": "FAQ",
+    "mapPlaceId": "library"
+  },
+  {
+    "text": "exam form deadline September",
+    "answer": "Fill the TU exam form at the exam section in Admin Office. Sample deadline in this prototype: 30 September. Always check the pinned notice.",
+    "source": "Notices"
+  },
+  {
+    "text": "internal exam how routine",
+    "answer": "Two internals are typical. The routine is published as an official notice. Internals count toward sessionals with labs and attendance.",
+    "source": "FAQ"
+  },
+  {
+    "text": "practical lab bring C programming",
+    "answer": "Bring student ID, lab copy, pen, and the week's lab sheet from Resources. C labs are in Computer Labs, Science Block 2F.",
+    "source": "FAQ",
+    "mapPlaceId": "lab"
+  }
+]
